@@ -37,8 +37,8 @@ ILive/DDP.Common.Mvx.Droid/Resources/Resource.designer.cs
 
 # MacOS Finder files
 .DS_Store
-Resource.designer.cs
 
 # NetBeans IDE Project
 [Bb]uild/
 build.xml
+[Dd]ist/
